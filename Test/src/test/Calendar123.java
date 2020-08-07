@@ -14,7 +14,9 @@ public class Calendar123 {
 		//SimpleDateFormat sdf = new SimpleDateFormat();
 		//sdf.format(cal.getTime());
 		System.out.println(cal.get(Calendar.DAY_OF_WEEK_IN_MONTH));
-		
+		System.out.println("1234");
+		System.out.println("1234456");
+		System.out.println("1234456546");
 		
 
 	}
